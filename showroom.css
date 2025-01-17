@@ -1,0 +1,36 @@
+header{
+    
+    background-color: beige;
+    display: flex;
+}
+ul{
+    display: flex;
+     gap: 100px;
+    color: brown;
+    text-align: end;
+}
+header li{
+    list-style: none;
+    justify-content: flex-end;
+}
+ .SECTION1{
+    display: flex;
+    gap: 30px;
+ }  
+img{
+    width: 200px;
+    border-radius: 20px;
+    margin: 10px;   
+}
+section h1{
+    color: brown;
+    text-align: center;
+}
+
+.SECTION1 div{
+    border: 3px solid coral;
+}
+ header h1{
+    display: inline;
+ }   
+    
